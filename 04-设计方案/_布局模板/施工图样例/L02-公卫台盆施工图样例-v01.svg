@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1800" viewBox="0 0 2400 1800" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" role="img" aria-label="公卫台盆施工图表达样例：平面、立面、水电点位和剖面。示例假设带星号，非本项目施工交底文件。">
+ <title>公卫台盆施工图样例 · EX-01 · v01</title>
+ <desc>用于认识施工图的局部表达样例。项目尺寸和假设尺寸分别标注，未确认的水电安装点位不作为施工依据。</desc>
+ <defs>
+  <pattern id="cut-hatch" patternUnits="userSpaceOnUse" width="12" height="12">
+   <path d="M-3 3L3 -3M0 12L12 0M9 15L15 9" stroke="#738089" stroke-width="1" fill="none" />
+  </pattern>
+ </defs>
+ <rect x="0" y="0" width="2400" height="1800" fill="white" stroke="none" stroke-width="2" />
+ <rect x="25" y="25" width="2350" height="1750" fill="none" stroke="#20272b" stroke-width="2" />
+ <text x="55" y="78" font-size="40" fill="#20272b" text-anchor="start" font-weight="700">公卫台盆 · 施工图样例</text>
+ <text x="55" y="119" font-size="22" fill="#738089" text-anchor="start" font-weight="400">认识施工图：平面定位 → 立面高度 → 水电接口 → 剖面做法</text>
+ <text x="2335" y="74" font-size="28" fill="#20272b" text-anchor="end" font-weight="600">EX-01 / v01</text>
+ <text x="2335" y="116" font-size="23" fill="#ae5a37" text-anchor="end" font-weight="600">表达样例 · 非施工交底文件</text>
+ <g id="view-01" data-view="台盆局部平面定位">
+  <rect x="50" y="155" width="1120" height="665" fill="none" stroke="#cdd3d6" stroke-width="1.2" />
+  <text x="75" y="195" font-size="27" fill="#326a94" text-anchor="start" font-weight="700">01</text>
+  <text x="130" y="195" font-size="26" fill="#20272b" text-anchor="start" font-weight="600">台盆局部平面定位</text>
+  <text x="75" y="230" font-size="18" fill="#738089" text-anchor="start" font-weight="400">沿台盆长边旋转展开；仅表达端部关系，不重画公卫全墙体。</text>
+  <rect x="250" y="345" width="72.0" height="330.0" fill="url(#cut-hatch)" stroke="#20272b" stroke-width="2.5" />
+  <rect x="835.0" y="345" width="30" height="330.0" fill="url(#cut-hatch)" stroke="#20272b" stroke-width="2.5" data-status="schematic-thickness-unmeasured" />
+  <rect x="325.0" y="345" width="510.0" height="330.0" fill="#fbfcfc" stroke="#20272b" stroke-width="2.5" data-project-mm="850,550" />
+  <rect x="376.6" y="387.0" width="372.0" height="246.0" fill="none" stroke="#738089" stroke-width="1.5" rx="25" />
+  <circle cx="580.0" cy="366.6" r="6" fill="none" stroke="#20272b" stroke-width="1.5" />
+  <line x1="250" y1="345" x2="250" y2="255" stroke="#20272b" stroke-width="1" />
+  <line x1="835.0" y1="345" x2="835.0" y2="255" stroke="#20272b" stroke-width="1" />
+  <line x1="250" y1="263" x2="835.0" y2="263" stroke="#20272b" stroke-width="1" />
+  <line x1="245" y1="268" x2="255" y2="258" stroke="#20272b" stroke-width="2" />
+  <line x1="830.0" y1="268" x2="840.0" y2="258" stroke="#20272b" stroke-width="2" />
+  <text x="542.5" y="254" font-size="21" fill="#20272b" text-anchor="middle" font-weight="400" stroke="white" stroke-width="5" paint-order="stroke fill">975</text>
+  <line x1="250" y1="345" x2="250" y2="301" stroke="#20272b" stroke-width="1" />
+  <line x1="322.0" y1="345" x2="322.0" y2="301" stroke="#20272b" stroke-width="1" />
+  <line x1="250" y1="309" x2="322.0" y2="309" stroke="#20272b" stroke-width="1" />
+  <line x1="245" y1="314" x2="255" y2="304" stroke="#20272b" stroke-width="2" />
+  <line x1="317.0" y1="314" x2="327.0" y2="304" stroke="#20272b" stroke-width="2" />
+  <text x="286.0" y="300" font-size="21" fill="#20272b" text-anchor="middle" font-weight="400" stroke="white" stroke-width="5" paint-order="stroke fill">120</text>
+  <line x1="322.0" y1="345" x2="322.0" y2="301" stroke="#20272b" stroke-width="1" />
+  <line x1="835.0" y1="345" x2="835.0" y2="301" stroke="#20272b" stroke-width="1" />
+  <line x1="322.0" y1="309" x2="835.0" y2="309" stroke="#20272b" stroke-width="1" />
+  <line x1="317.0" y1="314" x2="327.0" y2="304" stroke="#20272b" stroke-width="2" />
+  <line x1="830.0" y1="314" x2="840.0" y2="304" stroke="#20272b" stroke-width="2" />
+  <text x="578.5" y="300" font-size="21" fill="#20272b" text-anchor="middle" font-weight="400" stroke="white" stroke-width="5" paint-order="stroke fill">855 可用</text>
+  <line x1="325.0" y1="675.0" x2="325.0" y2="707" stroke="#20272b" stroke-width="1" />
+  <line x1="835.0" y1="675.0" x2="835.0" y2="707" stroke="#20272b" stroke-width="1" />
+  <line x1="325.0" y1="715" x2="835.0" y2="715" stroke="#20272b" stroke-width="1" />
+  <line x1="320.0" y1="720" x2="330.0" y2="710" stroke="#20272b" stroke-width="2" />
+  <line x1="830.0" y1="720" x2="840.0" y2="710" stroke="#20272b" stroke-width="2" />
+  <text x="580.0" y="706" font-size="21" fill="#20272b" text-anchor="middle" font-weight="400" stroke="white" stroke-width="5" paint-order="stroke fill">850</text>
+  <line x1="835.0" y1="345" x2="935" y2="345" stroke="#20272b" stroke-width="1" />
+  <line x1="835.0" y1="675.0" x2="935" y2="675.0" stroke="#20272b" stroke-width="1" />
+  <line x1="927" y1="345" x2="927" y2="675.0" stroke="#20272b" stroke-width="1" />
+  <line x1="922" y1="350" x2="932" y2="340" stroke="#20272b" stroke-width="2" />
+  <line x1="922" y1="680.0" x2="932" y2="670.0" stroke="#20272b" stroke-width="2" />
+  <text x="919" y="510.0" font-size="21" fill="#20272b" text-anchor="middle" font-weight="400" transform="rotate(-90 919 510.0)" stroke="white" stroke-width="5" paint-order="stroke fill">550</text>
+  <text x="286" y="505" font-size="18" fill="#20272b" text-anchor="middle" font-weight="400" transform="rotate(-90 286 505)">保留横墙</text>
+  <text x="857" y="505" font-size="18" fill="#20272b" text-anchor="middle" font-weight="400" transform="rotate(-90 857 505)">两卫原隔墙保留</text>
+  <text x="580" y="547" font-size="22" fill="#738089" text-anchor="middle" font-weight="400">台盆 / 开孔随产品确定</text>
+  <line x1="580" y1="325" x2="580" y2="695" stroke="#738089" stroke-width="1.2" stroke-dasharray="14 5 2 5" />
+  <text x="600" y="340" font-size="20" fill="#326a94" text-anchor="start" font-weight="700">A</text>
+  <text x="615" y="679" font-size="20" fill="#326a94" text-anchor="start" font-weight="700">A</text>
+  <path d="M620 761V735M612 745L620 735L628 745" stroke="#326a94" stroke-width="1.8" fill="none" />
+  <text x="645" y="753" font-size="18" fill="#326a94" text-anchor="start" font-weight="400">B向立面 → 见02</text>
+  <text x="76" y="780" font-size="20" fill="#ae5a37" text-anchor="start" font-weight="400">总余5：示意集中于左端；安装缝及完成面仍待复尺。</text>
+ </g>
+ <g id="view-02" data-view="B向台盆立面">
+  <rect x="1200" y="155" width="1150" height="665" fill="none" stroke="#cdd3d6" stroke-width="1.2" />
+  <text x="1225" y="195" font-size="27" fill="#326a94" text-anchor="start" font-weight="700">02</text>
+  <text x="1280" y="195" font-size="26" fill="#20272b" text-anchor="start" font-weight="600">B向台盆立面</text>
+  <text x="1225" y="230" font-size="18" fill="#738089" text-anchor="start" font-weight="400">展示离地高度、柜体外形及镜柜范围；蓝色＊为演示假设。</text>
+  <rect x="1500" y="522.5" width="212.5" height="5.0" fill="#edf3f7" stroke="#326a94" stroke-width="2" />
+  <rect x="1500" y="527.5" width="212.5" height="170.0" fill="none" stroke="#326a94" stroke-width="2" />
+  <line x1="1606.25" y1="527.5" x2="1606.25" y2="697.5" stroke="#738089" stroke-width="1" />
+  <line x1="1512" y1="562.5" x2="1594.25" y2="562.5" stroke="#738089" stroke-width="1" />
+  <line x1="1618.25" y1="562.5" x2="1700.5" y2="562.5" stroke="#738089" stroke-width="1" />
+  <rect x="1500" y="285.0" width="212.5" height="175.0" fill="#fbfcfd" stroke="#326a94" stroke-width="1.5" />
+  <line x1="1518" y1="327.0" x2="1585" y2="303.0" stroke="#cdd3d6" stroke-width="1" />
+  <text x="1606.25" y="372.5" font-size="19" fill="#738089" text-anchor="middle" font-weight="400">镜柜示意</text>
+  <line x1="1290" y1="735" x2="2230" y2="735" stroke="#20272b" stroke-width="2.5" />
+  <path d="M1300 723L1313 735L1326 723Z" stroke="#20272b" stroke-width="1" fill="white" />
+  <text x="1334" y="729" font-size="18" fill="#738089" text-anchor="start" font-weight="400">±0.000 完成地面</text>
+  <line x1="1500" y1="522.5" x2="1500" y2="488" stroke="#20272b" stroke-width="1" />
+  <line x1="1712.5" y1="522.5" x2="1712.5" y2="488" stroke="#20272b" stroke-width="1" />
+  <line x1="1500" y1="496" x2="1712.5" y2="496" stroke="#20272b" stroke-width="1" />
+  <line x1="1495" y1="501" x2="1505" y2="491" stroke="#20272b" stroke-width="2" />
+  <line x1="1707.5" y1="501" x2="1717.5" y2="491" stroke="#20272b" stroke-width="2" />
+  <text x="1606.25" y="487" font-size="21" fill="#20272b" text-anchor="middle" font-weight="400" stroke="white" stroke-width="5" paint-order="stroke fill">850</text>
+  <line x1="1500" y1="522.5" x2="1423" y2="522.5" stroke="#326a94" stroke-width="1" />
+  <line x1="1500" y1="735" x2="1423" y2="735" stroke="#326a94" stroke-width="1" />
+  <line x1="1415" y1="522.5" x2="1415" y2="735" stroke="#326a94" stroke-width="1" />
+  <line x1="1410" y1="527.5" x2="1420" y2="517.5" stroke="#326a94" stroke-width="2" />
+  <line x1="1410" y1="740" x2="1420" y2="730" stroke="#326a94" stroke-width="2" />
+  <text x="1407" y="628.75" font-size="21" fill="#326a94" text-anchor="middle" font-weight="400" transform="rotate(-90 1407 628.75)" stroke="white" stroke-width="5" paint-order="stroke fill">850＊ 台面高</text>
+  <line x1="1712.5" y1="697.5" x2="1778" y2="697.5" stroke="#326a94" stroke-width="1" />
+  <line x1="1712.5" y1="735" x2="1778" y2="735" stroke="#326a94" stroke-width="1" />
+  <line x1="1770" y1="697.5" x2="1770" y2="735" stroke="#326a94" stroke-width="1" />
+  <line x1="1765" y1="702.5" x2="1775" y2="692.5" stroke="#326a94" stroke-width="2" />
+  <line x1="1765" y1="740" x2="1775" y2="730" stroke="#326a94" stroke-width="2" />
+  <text x="1762" y="716.25" font-size="21" fill="#326a94" text-anchor="middle" font-weight="400" transform="rotate(-90 1762 716.25)" stroke="white" stroke-width="5" paint-order="stroke fill">150＊</text>
+  <path d="M1712.5 285.0L1900 285.0L1900 299" stroke="#326a94" stroke-width="1.3" fill="none" />
+  <text x="1915" y="305" font-size="20" fill="#326a94" text-anchor="start" font-weight="400">镜顶 H=1800＊</text>
+  <path d="M1712.5 460.0L1940 460.0" stroke="#326a94" stroke-width="1.3" fill="none" />
+  <text x="1955" y="466.0" font-size="20" fill="#326a94" text-anchor="start" font-weight="400">镜底 H=1100＊</text>
+  <path d="M1712.5 522.5L1960 522.5" stroke="#326a94" stroke-width="1.3" fill="none" />
+  <text x="1975" y="528.5" font-size="20" fill="#326a94" text-anchor="start" font-weight="400">台面 H=850＊</text>
+  <text x="1930" y="620" font-size="20" fill="#326a94" text-anchor="start" font-weight="400">＊不是你家已选高度</text>
+  <text x="1930" y="651" font-size="18" fill="#738089" text-anchor="start" font-weight="400">按使用者、镜柜及台盆选型确定</text>
+  <text x="1226" y="788" font-size="20" fill="#738089" text-anchor="start" font-weight="400">施工图会将高度与完成地面基准关联；本张仅演示标注方式。</text>
+ </g>
+ <g id="view-03" data-view="给排水 / 电气点位展开">
+  <rect x="50" y="850" width="1120" height="665" fill="none" stroke="#cdd3d6" stroke-width="1.2" />
+  <text x="75" y="890" font-size="27" fill="#326a94" text-anchor="start" font-weight="700">03</text>
+  <text x="130" y="890" font-size="26" fill="#20272b" text-anchor="start" font-weight="600">给排水 / 电气点位展开</text>
+  <text x="75" y="925" font-size="18" fill="#738089" text-anchor="start" font-weight="400">点位编号与尺寸一一对应；这里只演示局部接口，不是全屋水电系统图。</text>
+  <rect x="280" y="1075.0" width="340.0" height="280.0" fill="none" stroke="#aeb7bf" stroke-width="1.5" stroke-dasharray="9 6" />
+  <line x1="280" y1="1075.0" x2="620.0" y2="1075.0" stroke="#738089" stroke-width="2" />
+  <line x1="170" y1="1415" x2="870" y2="1415" stroke="#20272b" stroke-width="2.5" />
+  <path d="M180 1403L193 1415L206 1403Z" stroke="#20272b" stroke-width="1" fill="white" />
+  <text x="214" y="1409" font-size="18" fill="#738089" text-anchor="start" font-weight="400">±0.000 完成地面</text>
+  <circle cx="420.0" cy="1195.0" r="12" fill="white" stroke="#ae5a37" stroke-width="2" />
+  <line x1="412.0" y1="1195.0" x2="428.0" y2="1195.0" stroke="#ae5a37" stroke-width="1" />
+  <line x1="420.0" y1="1187.0" x2="420.0" y2="1203.0" stroke="#ae5a37" stroke-width="1" />
+  <text x="384" y="1172.0" font-size="18" fill="#ae5a37" text-anchor="end" font-weight="600">W-01 热</text>
+  <circle cx="480.0" cy="1195.0" r="12" fill="white" stroke="#326a94" stroke-width="2" />
+  <line x1="472.0" y1="1195.0" x2="488.0" y2="1195.0" stroke="#326a94" stroke-width="1" />
+  <line x1="480.0" y1="1187.0" x2="480.0" y2="1203.0" stroke="#326a94" stroke-width="1" />
+  <text x="516" y="1172.0" font-size="18" fill="#326a94" text-anchor="start" font-weight="600">W-02 冷</text>
+  <circle cx="450.0" cy="1235.0" r="14" fill="white" stroke="#738089" stroke-width="2" />
+  <line x1="442.0" y1="1235.0" x2="458.0" y2="1235.0" stroke="#738089" stroke-width="1" />
+  <line x1="450.0" y1="1227.0" x2="450.0" y2="1243.0" stroke="#738089" stroke-width="1" />
+  <line x1="280" y1="1195.0" x2="280" y2="1107" stroke="#326a94" stroke-width="1" />
+  <line x1="420.0" y1="1195.0" x2="420.0" y2="1107" stroke="#326a94" stroke-width="1" />
+  <line x1="280" y1="1115" x2="420.0" y2="1115" stroke="#326a94" stroke-width="1" />
+  <line x1="275" y1="1120" x2="285" y2="1110" stroke="#326a94" stroke-width="2" />
+  <line x1="415.0" y1="1120" x2="425.0" y2="1110" stroke="#326a94" stroke-width="2" />
+  <text x="350.0" y="1106" font-size="21" fill="#326a94" text-anchor="middle" font-weight="400" stroke="white" stroke-width="5" paint-order="stroke fill">350＊</text>
+  <line x1="420.0" y1="1195.0" x2="420.0" y2="1107" stroke="#326a94" stroke-width="1" />
+  <line x1="480.0" y1="1195.0" x2="480.0" y2="1107" stroke="#326a94" stroke-width="1" />
+  <line x1="420.0" y1="1115" x2="480.0" y2="1115" stroke="#326a94" stroke-width="1" />
+  <line x1="415.0" y1="1120" x2="425.0" y2="1110" stroke="#326a94" stroke-width="2" />
+  <line x1="475.0" y1="1120" x2="485.0" y2="1110" stroke="#326a94" stroke-width="2" />
+  <text x="450.0" y="1106" font-size="21" fill="#326a94" text-anchor="middle" font-weight="400" stroke="white" stroke-width="5" paint-order="stroke fill">150＊</text>
+  <line x1="480.0" y1="1195.0" x2="480.0" y2="1107" stroke="#326a94" stroke-width="1" />
+  <line x1="620.0" y1="1195.0" x2="620.0" y2="1107" stroke="#326a94" stroke-width="1" />
+  <line x1="480.0" y1="1115" x2="620.0" y2="1115" stroke="#326a94" stroke-width="1" />
+  <line x1="475.0" y1="1120" x2="485.0" y2="1110" stroke="#326a94" stroke-width="2" />
+  <line x1="615.0" y1="1120" x2="625.0" y2="1110" stroke="#326a94" stroke-width="2" />
+  <text x="550.0" y="1106" font-size="21" fill="#326a94" text-anchor="middle" font-weight="400" stroke="white" stroke-width="5" paint-order="stroke fill">350＊</text>
+  <line x1="620.0" y1="1195.0" x2="715" y2="1195.0" stroke="#326a94" stroke-width="1" />
+  <line x1="620.0" y1="1415" x2="715" y2="1415" stroke="#326a94" stroke-width="1" />
+  <line x1="707" y1="1195.0" x2="707" y2="1415" stroke="#326a94" stroke-width="1" />
+  <line x1="702" y1="1200.0" x2="712" y2="1190.0" stroke="#326a94" stroke-width="2" />
+  <line x1="702" y1="1420" x2="712" y2="1410" stroke="#326a94" stroke-width="2" />
+  <text x="699" y="1305.0" font-size="21" fill="#326a94" text-anchor="middle" font-weight="400" transform="rotate(-90 699 1305.0)" stroke="white" stroke-width="5" paint-order="stroke fill">550＊ 给水口高</text>
+  <line x1="450.0" y1="1235.0" x2="803" y2="1235.0" stroke="#326a94" stroke-width="1" />
+  <line x1="450.0" y1="1415" x2="803" y2="1415" stroke="#326a94" stroke-width="1" />
+  <line x1="795" y1="1235.0" x2="795" y2="1415" stroke="#326a94" stroke-width="1" />
+  <line x1="790" y1="1240.0" x2="800" y2="1230.0" stroke="#326a94" stroke-width="2" />
+  <line x1="790" y1="1420" x2="800" y2="1410" stroke="#326a94" stroke-width="2" />
+  <text x="787" y="1325.0" font-size="21" fill="#326a94" text-anchor="middle" font-weight="400" transform="rotate(-90 787 1325.0)" stroke="white" stroke-width="5" paint-order="stroke fill">450＊ 排水口高</text>
+  <path d="M450.0 1235.0L560 1290.0L820 1290.0" stroke="#738089" stroke-width="1.3" fill="none" />
+  <text x="835" y="1295.0" font-size="20" fill="#738089" text-anchor="start" font-weight="400">D-01 排水接口</text>
+  <text x="835" y="1326.0" font-size="18" fill="#738089" text-anchor="start" font-weight="400">墙排画法示例</text>
+  <text x="835" y="1355.0" font-size="18" fill="#ae5a37" text-anchor="start" font-weight="400">实际排水方式待定</text>
+  <circle cx="450" cy="1020" r="12" fill="white" stroke="#326a94" stroke-width="2" />
+  <line x1="442" y1="1020" x2="458" y2="1020" stroke="#326a94" stroke-width="1" />
+  <line x1="450" y1="1012" x2="450" y2="1028" stroke="#326a94" stroke-width="1" />
+  <path d="M465 1020L745 1020" stroke="#326a94" stroke-width="1.3" fill="none" />
+  <text x="765" y="1018" font-size="20" fill="#326a94" text-anchor="start" font-weight="400">EL-01 镜灯出线</text>
+  <text x="765" y="1051" font-size="18" fill="#738089" text-anchor="start" font-weight="400">位置 / 标高 / 回路 / 防护待定</text>
+  <text x="76" y="1460" font-size="20" fill="#326a94" text-anchor="start" font-weight="400">＊给水、排水的横向定位和高度均为演示假设，不能据此预埋。</text>
+  <text x="76" y="1493" font-size="19" fill="#738089" text-anchor="start" font-weight="400">符号位置不代表原有接口；管径、接法与产品安装空间另行深化。</text>
+  <path d="M390 1180L414 1189" fill="none" stroke="#ae5a37" stroke-width="1.2" />
+  <path d="M510 1180L486 1189" fill="none" stroke="#326a94" stroke-width="1.2" />
+  <path d="M450 1140V1380" fill="none" stroke="#aeb7bf" stroke-width="1" stroke-dasharray="10 4 2 4" />
+  <text x="450" y="1394" font-size="16" fill="#738089" text-anchor="middle">柜中线（D-01横向位置示意）</text>
+ </g>
+ <g id="view-04" data-view="A—A 柜体剖面">
+  <rect x="1200" y="850" width="1150" height="665" fill="none" stroke="#cdd3d6" stroke-width="1.2" />
+  <text x="1225" y="890" font-size="27" fill="#326a94" text-anchor="start" font-weight="700">04</text>
+  <text x="1280" y="890" font-size="26" fill="#20272b" text-anchor="start" font-weight="600">A—A 柜体剖面</text>
+  <text x="1225" y="925" font-size="18" fill="#738089" text-anchor="start" font-weight="400">展示台面厚度、柜体高度、内部避让与连接说明；未指定材料及承托件。</text>
+  <rect x="1420" y="955" width="30" height="495" fill="url(#cut-hatch)" stroke="#20272b" stroke-width="2" data-status="generic-wall-symbol-not-project-demolition-scope" />
+  <rect x="1450" y="982.5" width="302.5" height="11.0" fill="#edf3f7" stroke="#326a94" stroke-width="2" />
+  <rect x="1460" y="1001.5" width="282.5" height="366.00000000000006" fill="none" stroke="#326a94" stroke-width="2" />
+  <path d="M1500 993.5Q1505 1087.5 1605 1087.5Q1695 1087.5 1703 993.5" stroke="#738089" stroke-width="1.7" fill="none" />
+  <rect x="1465" y="1117.5" width="75" height="233.0" fill="none" stroke="#738089" stroke-width="1.2" stroke-dasharray="8 5" />
+  <line x1="1550" y1="1177.5" x2="1742.5" y2="1177.5" stroke="#738089" stroke-width="1.2" />
+  <line x1="1730.5" y1="1003.5" x2="1730.5" y2="1357.5" stroke="#738089" stroke-width="1" />
+  <line x1="1290" y1="1450" x2="2290" y2="1450" stroke="#20272b" stroke-width="2.5" />
+  <path d="M1300 1438L1313 1450L1326 1438Z" stroke="#20272b" stroke-width="1" fill="white" />
+  <text x="1334" y="1444" font-size="18" fill="#738089" text-anchor="start" font-weight="400">±0.000 完成地面</text>
+  <line x1="1450" y1="982.5" x2="1450" y2="947" stroke="#20272b" stroke-width="1" />
+  <line x1="1752.5" y1="982.5" x2="1752.5" y2="947" stroke="#20272b" stroke-width="1" />
+  <line x1="1450" y1="955" x2="1752.5" y2="955" stroke="#20272b" stroke-width="1" />
+  <line x1="1445" y1="960" x2="1455" y2="950" stroke="#20272b" stroke-width="2" />
+  <line x1="1747.5" y1="960" x2="1757.5" y2="950" stroke="#20272b" stroke-width="2" />
+  <text x="1601.25" y="946" font-size="21" fill="#20272b" text-anchor="middle" font-weight="400" stroke="white" stroke-width="5" paint-order="stroke fill">550</text>
+  <line x1="1752.5" y1="982.5" x2="1823" y2="982.5" stroke="#326a94" stroke-width="1" />
+  <line x1="1752.5" y1="1450" x2="1823" y2="1450" stroke="#326a94" stroke-width="1" />
+  <line x1="1815" y1="982.5" x2="1815" y2="1450" stroke="#326a94" stroke-width="1" />
+  <line x1="1810" y1="987.5" x2="1820" y2="977.5" stroke="#326a94" stroke-width="2" />
+  <line x1="1810" y1="1455" x2="1820" y2="1445" stroke="#326a94" stroke-width="2" />
+  <text x="1807" y="1216.25" font-size="21" fill="#326a94" text-anchor="middle" font-weight="400" transform="rotate(-90 1807 1216.25)" stroke="white" stroke-width="5" paint-order="stroke fill">850＊</text>
+  <line x1="1752.5" y1="1367.5" x2="1898" y2="1367.5" stroke="#326a94" stroke-width="1" />
+  <line x1="1752.5" y1="1450" x2="1898" y2="1450" stroke="#326a94" stroke-width="1" />
+  <line x1="1890" y1="1367.5" x2="1890" y2="1450" stroke="#326a94" stroke-width="1" />
+  <line x1="1885" y1="1372.5" x2="1895" y2="1362.5" stroke="#326a94" stroke-width="2" />
+  <line x1="1885" y1="1455" x2="1895" y2="1445" stroke="#326a94" stroke-width="2" />
+  <text x="1882" y="1408.75" font-size="21" fill="#326a94" text-anchor="middle" font-weight="400" transform="rotate(-90 1882 1408.75)" stroke="white" stroke-width="5" paint-order="stroke fill">150＊</text>
+  <path d="M1752.5 987.5L1960 987.5" stroke="#326a94" stroke-width="1.3" fill="none" />
+  <text x="1975" y="993.5" font-size="20" fill="#326a94" text-anchor="start" font-weight="400">台面厚20＊（演示值）</text>
+  <path d="M1665 1177.5L1980 1177.5" stroke="#738089" stroke-width="1.3" fill="none" />
+  <text x="1995" y="1183.5" font-size="20" fill="#738089" text-anchor="start" font-weight="400">柜体及排水避让</text>
+  <text x="1995" y="1214.5" font-size="18" fill="#738089" text-anchor="start" font-weight="400">分格随盆体和五金确定</text>
+  <path d="M1505 1242.5L1740 1242.5L1740 1325L1960 1325" stroke="#738089" stroke-width="1.3" fill="none" />
+  <text x="1975" y="1332" font-size="20" fill="#738089" text-anchor="start" font-weight="400">检修空间待产品确定</text>
+  <text x="1975" y="1380" font-size="18" fill="#738089" text-anchor="start" font-weight="400">连接 / 承托：由厂家深化</text>
+  <text x="1226" y="1493" font-size="19" fill="#738089" text-anchor="start" font-weight="400">此剖面只演示表达方法；墙体构造、防水收口与材料做法未选定。</text>
+ </g>
+ <rect x="50" y="1550" width="2300" height="190" fill="none" stroke="#20272b" stroke-width="1.5" />
+ <line x1="1320" y1="1550" x2="1320" y2="1740" stroke="#20272b" stroke-width="1" />
+ <line x1="1900" y1="1550" x2="1900" y2="1740" stroke="#20272b" stroke-width="1" />
+ <text x="76" y="1592" font-size="24" fill="#20272b" text-anchor="start" font-weight="600">怎么看这张图</text>
+ <text x="76" y="1631" font-size="21" fill="#20272b" text-anchor="start" font-weight="400">黑色尺寸：沿用公卫v06的项目输入 / 候选；蓝色＊：样例假设。</text>
+ <text x="76" y="1668" font-size="21" fill="#738089" text-anchor="start" font-weight="400">975=120+855；855=5+850。高度与接口定位必须在选型、复尺后替换。</text>
+ <text x="76" y="1706" font-size="20" fill="#738089" text-anchor="start" font-weight="400">正式交底图还需补齐材料、管线连接、节点索引、校审及变更记录。</text>
+ <text x="1345" y="1592" font-size="23" fill="#20272b" text-anchor="start" font-weight="600">图名：公卫台盆施工图表达样例</text>
+ <text x="1345" y="1631" font-size="21" fill="#20272b" text-anchor="start" font-weight="400">源布局：L02 公卫 v06</text>
+ <text x="1345" y="1668" font-size="21" fill="#20272b" text-anchor="start" font-weight="400">图号：EX-01    版本：v01</text>
+ <text x="1345" y="1706" font-size="20" fill="#738089" text-anchor="start" font-weight="400">日期：2026-10-05    校审：未签发</text>
+ <text x="1925" y="1592" font-size="23" fill="#ae5a37" text-anchor="start" font-weight="600">状态：样例 / 不用于施工</text>
+ <text x="1925" y="1631" font-size="19" fill="#20272b" text-anchor="start" font-weight="400">尺寸：mm；±0.000为地面基准</text>
+ <text x="1925" y="1668" font-size="20" fill="#738089" text-anchor="start" font-weight="400">各视图示意比例，按标注读图</text>
+ <text x="1925" y="1706" font-size="20" fill="#738089" text-anchor="start" font-weight="400">不修改现有方案与决策</text>
+ <metadata id="example-provenance">{"example_id": "EX-01", "version": "v01", "date": "2026-10-05", "status": "表达样例，非施工交底文件", "source_file": "../平面图/L02-公卫设计-v06.svg", "source_sha256": "0e96db093ac5df3df536172fbee25d67d99a299edc077d438854136a854f542b", "project_inputs_mm": {"basin_length_candidate": 850, "basin_depth_candidate": 550, "total_end_segment": 975, "retained_end_wall": 120, "nominal_clear": 855, "nominal_remaining": 5}, "illustrative_only_mm": {"counter_height": 850, "counter_thickness": 20, "cabinet_bottom": 150, "cabinet_body_height": 680, "mirror_bottom": 1100, "mirror_top": 1800, "water_outlet_height": 550, "waste_outlet_height": 450, "hot_x": 350, "cold_x": 500, "waste_x": 425}, "unresolved": ["实际给排水点位与方式", "产品安装图", "EL01位置标高回路防护", "墙体完成面/防水与收口", "柜体材料五金及连接承托", "5mm安装余量"], "views": ["01局部平面旋转展开", "02 B向立面", "03点位展开示意", "04 A-A构造示意"], "assumption_mark": "蓝色并带＊，不得用于项目施工定位", "png_export": "4800x3600 direct from SVG"}</metadata>
+</svg>
