@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="2280" viewBox="0 0 2400 2280" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" role="img" aria-label="L02全屋布局整合v10 当前各空间最大版本 2026-10-05">
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="2280" viewBox="0 0 2400 2280" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" role="img" aria-label="L02全屋布局整合v10 当前各空间最大版本 2026-10-07">
  <title>L02 全屋布局整合 · v10</title>
  <desc>按2026年10月5日各空间现存最大版本合并的全屋家具平面，实际方向厨房右上、主卧左下，上南下北。尺寸及布置为候选；同名PNG为本SVG直接导出。</desc>
  <defs>
@@ -58,7 +58,7 @@
  </defs>
  <rect x="0" y="0" width="2400" height="2280" fill="#faf9f5" />
  <text x="65" y="70" font-size="44" fill="#243444" font-weight="700" text-anchor="start">L02 全屋布局整合 · v10</text>
- <text x="65" y="115" font-size="23" fill="#647782" font-weight="400" text-anchor="start">当前各空间最大版本汇总  /  2026.10.05</text>
+ <text x="65" y="115" font-size="23" fill="#647782" font-weight="400" text-anchor="start">当前各空间最大版本汇总  /  2026.10.07</text>
  <text x="2335" y="70" font-size="25" fill="#357a70" font-weight="600" text-anchor="end">上南下北</text>
  <text x="2335" y="113" font-size="21" fill="#647782" font-weight="400" text-anchor="end">尺寸单位：mm  ·  候选平面</text>
  <path d="M65 136H2335" stroke="#d8dcd6" stroke-width="1.2" />
@@ -408,77 +408,76 @@
       <ellipse cx="403.1461472757837" cy="986.3371138482902" rx="5.0" ry="5.0" fill="#94a176" stroke="#7d8c64" />
      </g>
     </g>
-    <g id="source-公卫" data-source-file="L02-公卫设计-v06.svg" data-source-version="v06">
-     <g id="component-BA01" data-version="v06">
-      <rect x="1037.0" y="334.0" width="152.0" height="122.0" fill="#edf3ed" stroke="none" stroke-width="0.65" data-mm="0,0,1770,1864" />
-      <rect x="1026" y="417" width="11" height="39" fill="#f4f0e7" stroke="none" stroke-width="0.65" />
-      <path d="M1031 417V456" stroke="#bd7651" stroke-width="0.6" fill="none" stroke-dasharray="2 2" />
-      <rect x="1024.5" y="397.09442060085837" width="12.5" height="19.90557939914163" fill="#f4f0e7" stroke="none" stroke-width="0.6" data-role="BA01-short-side-wall-proposed-removal" data-extent="existing-drawing-footprint-and-raster-outline-cleanup-only; unmeasured" data-status="candidate-demolition; structure-and-services-unverified" />
-      <rect x="982" y="417" width="44" height="39" fill="#e6c477" stroke="#bd9040" stroke-width="0.6" fill-opacity=".18" stroke-dasharray="3 2" rx="4" />
-      <rect x="1037.0" y="400.36695278969955" width="47.23163841807909" height="55.63304721030043" fill="#d9c8a6" stroke="#8b8778" stroke-width="0.65" data-mm="0,1014,550,850" data-mm-actual="1220,1014,550,850" data-role="BA01-basin-850" />
-      <rect x="1043.0112994350281" y="405.9957081545064" width="35.2090395480226" height="40.5793991416309" fill="#fafbf2" stroke="#80978e" stroke-width="0.65" rx="3" data-mm="70,1100,410,620" />
-      <rect x="1085.949152542373" y="397.09442060085837" width="103.05084745762711" height="58.90557939914163" fill="#c6e1dd" stroke="#64918b" stroke-width="0.65" data-mm="570,964,1200,900" />
-      <rect x="1084.231638418079" y="397.09442060085837" width="1.7175141242937852" height="58.90557939914163" fill="#da8c72" stroke="#b54c36" stroke-width="0.65" data-mm="550,964,20,900" />
-      <rect x="1141.768361581921" y="397.09442060085837" width="47.23163841807909" height="4" fill="#d4c09c" stroke="#88744f" stroke-width="0.6" data-symbol="halfwall-thickness-unknown" />
-      <path d="M1148.638418079096 400.09442060085837H1182.9887005649719" stroke="#aa7343" stroke-width="0.6" fill="none" stroke-dasharray="2 1" />
-      <path d="M1141.768361581921 397.09442060085837H1189.0" stroke="#458783" stroke-width="1.2" fill="none" />
-      <path d="M1092.819209039548 397.09442060085837H1141.768361581921" stroke="#b67a48" stroke-width="0.7" fill="none" stroke-dasharray="3 2" />
-      <rect x="1171.8248587570622" y="353.6351931330472" width="15.457627118644067" height="24.871244635193133" fill="#fbfcf5" stroke="#8b9891" stroke-width="0.65" rx="2" data-mm="1570,300,180,380" />
-      <ellipse cx="1155.5084745762713" cy="366.07081545064375" rx="23.1864406779661" ry="12.435622317596566" fill="#fbfcf5" stroke="#8b9891" stroke-width="0.7" />
-      <ellipse cx="1155.5084745762713" cy="366.07081545064375" rx="14.598870056497175" ry="7.854077253218884" fill="#e3eeea" />
-      <path d="M1037 337H1091 M1091 337A54 54 0 0 1 1037 391" stroke="#547f79" stroke-width="0.7" fill="none" />
-      <rect x="1037" y="392.1856" width="47.2316" height="7.8541" fill="#b7b8b4" stroke="#737770" stroke-width=".6" data-mm-actual="1220,889,550,120" data-role="BA01-confirmed-upper-wall-120" data-source="user-confirmed-2026-10-04" data-horizontal-extent="basin-band-schematic-not-measured-wall-length" />
-     </g>
+    <g id="source-公卫" data-source-file="L02-公卫设计-v07.svg" data-source-version="v07">
+     <g id="component-BA01" data-version="v07" transform="translate(1412 0) scale(-1 1)" data-coordinate-system="actual-plan; x-right y-down; room 1770x1864">
+     <rect x="223" y="334" width="152" height="122" fill="#edf3ed" stroke="none" stroke-width="0.65" data-mm-actual="0,0,1770,1864" data-role="BA01-current-floor" />
+     <rect x="375" y="334" width="12.5" height="122" fill="#f4f0e7" stroke="none" data-role="BA01-corridor-side-opening-adjustment" data-extent="drawing-footprint-only; actual wall thickness unmeasured" />
+     <rect x="223" y="334" width="103.050847" height="58.905579" fill="#c6e1dd" stroke="#64918b" stroke-width="0.65" data-mm-actual="0,0,1200,900" data-role="BA01-shower" data-status="candidate-envelope-not-guaranteed-net" />
+     <rect x="326.050847" y="334" width="1.717514" height="58.905579" fill="#e2a18b" stroke="#b54c36" stroke-width="0.65" data-mm-actual="1200,0,20,900" data-role="BA01-partition-budget-unresolved" />
+     <rect x="326.050847" y="334" width="1.717514" height="58.905579" fill="url(#conflict-hatch)" stroke="none" stroke-width="0.65" data-mm-actual="1200,0,20,900" />
+     <path d="M223.0 392.90557939914163H270.2316384180791" fill="none" stroke="#a38f67" stroke-width="2.2" data-role="BA01-shower-halfwall-550" data-thickness="unknown-symbol-only" />
+     <path d="M223.0 391.90557939914163H270.2316384180791" fill="none" stroke="#458783" stroke-width="0.9" />
+     <path d="M270.2316384180791 392.90557939914163H326.0508474576271" fill="none" stroke="#b67a48" stroke-width="0.65" stroke-dasharray="3 2" data-role="BA01-shower-entry-nominal-650" />
+     <rect x="327.768362" y="335.636266" width="47.231638" height="55.633047" fill="#d9c8a6" stroke="#8b8778" stroke-width="0.65" data-mm-actual="1220,25,550,850" data-role="BA01-basin-850" data-status="candidate" />
+     <rect x="333.779661" y="343.16309" width="35.20904" height="40.579399" fill="#fafbf2" stroke="#80978e" stroke-width="0.65" data-mm-actual="1290,140,410,620" data-role="BA01-basin-bowl-symbol" rx="3" />
+     <rect x="391" y="343" width="43" height="42" fill="#e6c477" fill-opacity=".13" stroke="#bd9040" stroke-width=".6" stroke-dasharray="3 2" rx="3" data-role="BA01-washing-position-symbol" />
+     <rect x="327.768362" y="392.905579" width="47.231638" height="7.854077" fill="#b7b8b4" stroke="#737770" stroke-width="0.65" data-mm-actual="1220,900,550,120" data-role="BA01-upper-wall-120-relocated" data-status="120-thickness-user-confirmed; y900-candidate" data-horizontal-extent="basin-band-schematic; exact wall length unmeasured" />
+     <rect x="375" y="392.905579" width="12.5" height="7.854077" fill="#b7b8b4" stroke="#737770" stroke-width=".6" data-role="BA01-transverse-wall-return-symbol" data-extent="unmeasured-wall-thickness-band" />
+     <rect x="375" y="453.120172" width="12.5" height="2.879828" fill="#b7b8b4" stroke="#737770" stroke-width=".5" data-role="BA01-proposed-lower-return-44" />
+     <path d="M375.0 453.12017167381975H306.2994350282486" fill="none" stroke="#345f58" stroke-width="1.2" data-role="BA01-door-leaf-symbol" data-opening-reservation-mm="800" data-leaf-actual-size="unselected" />
+     <path d="M375.0 400.7596566523605A68.7005649717514 52.36051502145923 0 0 0 306.2994350282486 453.12017167381975" fill="none" stroke="#648e87" stroke-width="0.65" data-role="BA01-door-sweep-nominal" />
+     <path d="M375.0 400.7596566523605V453.12017167381975" fill="none" stroke="#809b91" stroke-width="0.55" stroke-dasharray="2 2" data-role="BA01-door-closed-position" />
+     <rect x="224.717514" y="412.017167" width="15.457627" height="24.871245" fill="#fbfcf5" stroke="#8b9891" stroke-width="0.65" data-mm-actual="20,1192,180,380" data-role="BA01-toilet-tank-symbol" rx="2" />
+     <ellipse cx="261.644068" cy="424.45279" rx="23.186441" ry="12.435622" fill="#fbfcf5" stroke="#8b9891" stroke-width=".7" data-role="BA01-toilet-bowl-symbol" />
+     <ellipse cx="261.644068" cy="424.45279" rx="14.59887" ry="7.854077" fill="#e3eeea" />
+     <rect x="224.717514" y="412.017167" width="60.112994" height="24.871245" fill="none" stroke="none" data-role="BA01-toilet-envelope" data-mm-actual="20,1192,700,380" data-width-source="user380" data-length-source="candidate700" data-rear-clearance-source="candidate20" />
+    </g>
     </g>
     <g id="source-主卧与两卫联动" data-source-file="L02-主卧与两卫联动设计-v04.svg" data-source-version="v04">
      <g id="component-BR01-BA02" data-version="v04">
-      <rect x="1031" y="468" width="217" height="178.6898532227185" fill="#edf3ed" stroke="none" stroke-width="0.65" />
-      <rect x="930" y="591" width="101" height="418" fill="url(#wood-lines)" stroke="none" stroke-width="0.65" />
-      <rect x="1031" y="646.6898532227185" width="217" height="362.3101467772815" fill="url(#wood-lines)" stroke="none" stroke-width="0.65" />
-      <rect x="1174.1951029926156" y="468.0" width="73.80489700738438" height="113" fill="#cee3df" stroke="#588e87" stroke-width="0.65" data-mm="1673,0,900,1567" />
-      <rect x="1172.5549941702293" y="581" width="75.4450058297707" height="57.6898532227185" fill="url(#wood-lines)" stroke="none" stroke-width="0.65" data-role="secondary-clothing-zone-schematic" data-net-depth="pending-wall-thickness-and-finishes" />
-      <rect x="1172.5549941702293" y="581" width="75.44500582977071" height="8" fill="#b7b8b4" stroke="#737770" stroke-width="0.7" data-role="retained-left-wall" data-upper-edge="aligned-original-wall-dashed-line" data-thickness="schematic-not-measured" />
-      <rect x="1172.5549941702293" y="581" width="8" height="65.6898532227185" fill="#79a8a1" stroke="#346b69" stroke-width="0.7" data-role="secondary-clothing-side-wall" />
-      <rect x="1031" y="638.6898532227185" width="141.5549941702293" height="8" fill="#79a8a1" stroke="#346b69" stroke-width="0.7" />
-      <rect x="1026" y="468" width="11" height="120.21123165283984" fill="#79a8a1" stroke="#346b69" stroke-width="0.7" />
-      <path d="M943 592V650 M1001 592A59 59 0 0 1 942 651" stroke="#788379" stroke-width="0.7" fill="none" />
-      <rect x="1037.0" y="490.85960433950225" width="41.00272055965799" height="72.11231652839821" fill="#d9c8a6" stroke="#8e8773" stroke-width="0.65" data-mm="0,317,500,1000" data-role="BA02-vanity-right-wall" data-facing="actual-left-toward-shower" data-top-contact="pipe-box-bottom; nominal-zero-gap; installation-unverified" />
-      <rect x="1044.3804897007385" y="496.6285896617741" width="24.601632335794793" height="60.5743458838545" fill="#fafbf5" stroke="#839b90" stroke-width="0.65" rx="3" data-mm="90,397,300,840" />
-      <path d="M1037 638.6898532227185H1094.403808783521 M1037 588.2112316528398A57.40380878352118 50.47862156987875 0 0 1 1094.403808783521 638.6898532227185" stroke="#467b73" stroke-width="0.8" fill="none" />
-      <path d="M1172.5549941702293 468V505.6666666666667" stroke="#4c8b82" stroke-width="0.8" fill="none" />
-      <path d="M1173.5549941702293 505.6666666666667V543.3333333333334" stroke="#4c8b82" stroke-width="0.8" fill="none" />
-      <path d="M1174.5549941702293 543.3333333333334V581" stroke="#4c8b82" stroke-width="0.8" fill="none" />
-      <path d="M1037 581H1248" stroke="#b67e52" stroke-width="0.7" fill="none" stroke-dasharray="4 3" />
-      <path d="M1255.9545277885736 581.0L1255.9545277885736 638.6898532227185" stroke="#446c66" stroke-width="0.65" fill="none" />
-      <path d="M1253.4545277885736 581.0h5 M1253.4545277885736 638.6898532227185h5" stroke="#446c66" stroke-width="0.65" fill="none" />
-      <g id="BA02-fixed-pipe-box" data-mm-width="514" data-mm-depth="317" data-location="original-upper-left__actual-upper-right" data-status="fixed-pipe-box; no-vanity-overlap-in-candidate">
-       <rect x="1037" y="468" width="42.15079673532841" height="22.859604339502233" fill="#bbbcaf" stroke="#515f59" stroke-width="0.8" />
+     <rect x="1031" y="468" width="217" height="178.6898532227185" fill="#edf3ed" stroke="none" stroke-width="0.65" />
+     <rect x="930" y="591" width="101" height="418" fill="url(#wood-lines)" stroke="none" stroke-width="0.65" />
+     <rect x="1031" y="646.6898532227185" width="217" height="362.3101467772815" fill="url(#wood-lines)" stroke="none" stroke-width="0.65" />
+     <rect x="1174.1951029926156" y="468.0" width="73.80489700738438" height="113" fill="#cee3df" stroke="#588e87" stroke-width="0.65" data-mm="1673,0,900,1567" />
+     <rect x="1149.7940147687525" y="581" width="98.20598523124757" height="57.6898532227185" fill="url(#wood-lines)" stroke="none" stroke-width="0.65" data-role="secondary-clothing-zone-schematic" data-target-clear-width-mm="1100" data-width-status="user-requested-design-target-2026-10-07; finishes-unverified" data-net-depth="pending-wall-thickness-and-finishes" />
+     <rect x="1172.5549941702293" y="581" width="75.44500582977071" height="8" fill="#b7b8b4" stroke="#737770" stroke-width="0.7" data-role="retained-left-wall" data-upper-edge="aligned-original-wall-dashed-line" data-thickness="schematic-not-measured" />
+     <rect x="1149.7940147687525" y="581" width="8" height="65.6898532227185" fill="#79a8a1" stroke="#346b69" stroke-width="0.7" data-role="secondary-clothing-side-wall" data-thickness="schematic-not-measured" />
+     <rect x="1149.7940147687525" y="581" width="22.76097940147679" height="8" fill="#79a8a1" stroke="#346b69" stroke-width="0.7" data-role="secondary-clothing-upper-wall-extension" data-status="proposed-connection; construction-unverified" />
+     <rect x="1031" y="638.6898532227185" width="118.7940147687525" height="8" fill="#79a8a1" stroke="#346b69" stroke-width="0.7" />
+     <rect x="1026" y="468" width="11" height="120.21123165283984" fill="#79a8a1" stroke="#346b69" stroke-width="0.7" />
+     <path d="M943 592V650 M1001 592A59 59 0 0 1 942 651" stroke="#788379" stroke-width="0.7" fill="none" />
+     <rect x="1037.0" y="490.85960433950225" width="41.00272055965799" height="72.11231652839821" fill="#d9c8a6" stroke="#8e8773" stroke-width="0.65" data-mm="0,317,500,1000" data-role="BA02-vanity-right-wall" data-facing="actual-left-toward-shower" data-top-contact="pipe-box-bottom; nominal-zero-gap; installation-unverified" />
+     <rect x="1044.3804897007385" y="496.6285896617741" width="24.601632335794793" height="60.5743458838545" fill="#fafbf5" stroke="#839b90" stroke-width="0.65" rx="3" data-mm="90,397,300,840" />
+     <path d="M1037 638.6898532227185H1094.403808783521 M1037 588.2112316528398A57.40380878352118 50.47862156987875 0 0 1 1094.403808783521 638.6898532227185" stroke="#467b73" stroke-width="0.8" fill="none" />
+     <path d="M1172.5549941702293 468V505.6666666666667" stroke="#4c8b82" stroke-width="0.8" fill="none" />
+     <path d="M1173.5549941702293 505.6666666666667V543.3333333333334" stroke="#4c8b82" stroke-width="0.8" fill="none" />
+     <path d="M1174.5549941702293 543.3333333333334V581" stroke="#4c8b82" stroke-width="0.8" fill="none" />
+     <path d="M1037 581H1248" stroke="#b67e52" stroke-width="0.7" fill="none" stroke-dasharray="4 3" />
+     <path d="M1255.9545277885736 581.0L1255.9545277885736 638.6898532227185" stroke="#446c66" stroke-width="0.65" fill="none" />
+     <path d="M1253.4545277885736 581.0h5 M1253.4545277885736 638.6898532227185h5" stroke="#446c66" stroke-width="0.65" fill="none" />
+     <g id="BA02-fixed-pipe-box" data-mm-width="514" data-mm-depth="317" data-location="original-upper-left__actual-upper-right" data-status="fixed-pipe-box; no-vanity-overlap-in-candidate">
+      <rect x="1037" y="468" width="42.15079673532841" height="22.859604339502233" fill="#bbbcaf" stroke="#515f59" stroke-width="0.8" />
       </g>
-      <g id="BR01-retained-bed-symbol" transform="translate(1248 1009) scale(0.997275204359673 1.0594157562362305) translate(-1248 -1009)">
-       <rect x="1066" y="784" width="182" height="158" fill="#b7a88e" stroke="#7f7969" stroke-width="1" rx="3" />
-       <rect x="1070" y="788" width="174" height="149" fill="#f9f7ee" stroke="#aca99c" stroke-width="0.6" rx="3" />
-       <rect x="1213" y="792" width="26" height="66" fill="#fffefa" stroke="#c6bca6" stroke-width="0.6" rx="3" />
-       <rect x="1213" y="866" width="26" height="66" fill="#fffefa" stroke="#c6bca6" stroke-width="0.6" rx="3" />
-       <path d="M1206 789 L1206 936" fill="none" stroke="#c6bca6" stroke-width="0.65" />
-       <rect x="1210" y="747" width="38" height="34" fill="#d0bc96" stroke="#8c8068" stroke-width="0.7" />
-       <rect x="1210" y="945" width="38" height="34" fill="#d0bc96" stroke="#8c8068" stroke-width="0.7" />
-      </g>
-      <rect x="930" y="717.3845160085295" width="51.98910081743869" height="291.61548399147046" fill="#c9b58f" stroke="#867553" stroke-width="0.8" />
-      <path d="M930 765.9870966737747h51.98910081743869" stroke="#9a8867" stroke-width="0.6" fill="none" />
-      <path d="M930 814.5896773390197h51.98910081743869" stroke="#9a8867" stroke-width="0.6" fill="none" />
-      <path d="M930 863.1922580042648h51.98910081743869" stroke="#9a8867" stroke-width="0.6" fill="none" />
-      <path d="M930 911.7948386695099h51.98910081743869" stroke="#9a8867" stroke-width="0.6" fill="none" />
-      <path d="M930 960.3974193347549h51.98910081743869" stroke="#9a8867" stroke-width="0.6" fill="none" />
-      <rect x="1181.5549941702293" y="646.6898532227185" width="51.98910081743869" height="53.02099708935827" fill="none" stroke="#769a89" stroke-width="0.65" stroke-dasharray="3 2" />
-      <svg x="1189" y="446" width="59" height="22" viewBox="1189 446 59 22" overflow="hidden" data-role="preserved-wall-window-junction">
-       <use href="#base-raster" />
-      </svg>
-      <g data-role="BA02-toilet-upper-wall" data-mm="938,0,430,700" data-facing="actual-down-toward-bedroom" data-rear-gap-mm="0-assumed; actual-installation-unverified">
-       <rect x="1113.9211037699183" y="468.0" width="35.26233968130587" height="12.259093809827696" rx="2" fill="#fafbf5" stroke="#8b9891" stroke-width=".65" />
-       <ellipse cx="1131.5522736105713" cy="499.0082961072112" rx="17.221142635056353" ry="19.470325462667518" fill="#fafbf5" stroke="#8b9891" stroke-width=".7" />
-       <ellipse cx="1131.5522736105713" cy="499.7294192724952" rx="10.496696463272444" ry="12.114869176770899" fill="#e3ede5" />
-      </g>
+     <g id="BR01-retained-bed-symbol" transform="translate(1248 1009) scale(0.997275204359673 1.0594157562362305) translate(-1248 -1009)">
+      <rect x="1066" y="784" width="182" height="158" fill="#b7a88e" stroke="#7f7969" stroke-width="1" rx="3" />
+      <rect x="1070" y="788" width="174" height="149" fill="#f9f7ee" stroke="#aca99c" stroke-width="0.6" rx="3" />
+      <rect x="1213" y="792" width="26" height="66" fill="#fffefa" stroke="#c6bca6" stroke-width="0.6" rx="3" />
+      <rect x="1213" y="866" width="26" height="66" fill="#fffefa" stroke="#c6bca6" stroke-width="0.6" rx="3" />
+      <path d="M1206 789 L1206 936" fill="none" stroke="#c6bca6" stroke-width="0.65" />
+      <rect x="1210" y="747" width="38" height="34" fill="#d0bc96" stroke="#8c8068" stroke-width="0.7" />
+      <rect x="1210" y="945" width="38" height="34" fill="#d0bc96" stroke="#8c8068" stroke-width="0.7" />
      </g>
+     <rect x="930" y="717.3845160085295" width="51.98910081743869" height="291.61548399147046" fill="#c9b58f" stroke="#867553" stroke-width="0.8" />
+     <path d="M930 765.9870966737747h51.98910081743869" stroke="#9a8867" stroke-width="0.6" fill="none" />
+     <path d="M930 814.5896773390197h51.98910081743869" stroke="#9a8867" stroke-width="0.6" fill="none" />
+     <path d="M930 863.1922580042648h51.98910081743869" stroke="#9a8867" stroke-width="0.6" fill="none" />
+     <path d="M930 911.7948386695099h51.98910081743869" stroke="#9a8867" stroke-width="0.6" fill="none" />
+     <path d="M930 960.3974193347549h51.98910081743869" stroke="#9a8867" stroke-width="0.6" fill="none" />
+     <rect x="1181.5549941702293" y="646.6898532227185" width="51.98910081743869" height="53.02099708935827" fill="none" stroke="#769a89" stroke-width="0.65" stroke-dasharray="3 2" />
+     <svg x="1189" y="446" width="59" height="22" viewBox="1189 446 59 22" overflow="hidden" data-role="preserved-wall-window-junction">
+      <use href="#base-raster" />
+     </svg>
+    <g data-role="BA02-toilet-upper-wall" data-mm="938,0,430,700" data-facing="actual-down-toward-bedroom" data-rear-gap-mm="0-assumed; actual-installation-unverified"><rect x="1113.9211037699183" y="468.0" width="35.26233968130587" height="12.259093809827696" rx="2" fill="#fafbf5" stroke="#8b9891" stroke-width=".65" /><ellipse cx="1131.5522736105713" cy="499.0082961072112" rx="17.221142635056353" ry="19.470325462667518" fill="#fafbf5" stroke="#8b9891" stroke-width=".7" /><ellipse cx="1131.5522736105713" cy="499.7294192724952" rx="10.496696463272444" ry="12.114869176770899" fill="#e3ede5" /></g></g>
     </g>
     <svg x="909" y="626" width="23" height="347" viewBox="909 626 23 347" overflow="hidden">
      <use href="#base-raster" />
@@ -856,49 +855,40 @@
   <g id="anno-客厅-living-with-corridor-estimate" data-status="conditional-estimate">
    <text x="797" y="563" font-size="9" fill="#243444" text-anchor="middle" stroke="#fffefa" stroke-width="0.7" paint-order="stroke fill">含上方过道约33㎡（估算）</text>
   </g>
-  <g id="anno-公卫-readable-annotations-10" data-role="readable-annotations">
-   <g data-role="annotation">
+  <g id="anno-公卫-readable-annotations-v07" data-role="readable-annotations">
+   <text x="274.525424" y="360.834764" font-size="7.4" fill="#243444" text-anchor="middle">淋浴</text>
+   <text x="274.525424" y="369.997854" font-size="6.9" fill="#243444" text-anchor="middle">1200×900 拟</text>
+   <text x="351.384181" y="362.143777" font-size="6.8" fill="#243444" text-anchor="middle">外置台盆</text>
+   <text x="351.384181" y="371.306867" font-size="6.8" fill="#243444" text-anchor="middle">850×550 拟</text>
+   <text x="412" y="365" font-size="6.6" fill="#a87935" text-anchor="middle">洗漱站位</text>
+   <text x="245.327684" y="388.90557939914163" font-size="6.1" fill="#243444" text-anchor="middle">半墙550 拟</text>
+   <text x="300.288136" y="388.90557939914163" font-size="6.1" fill="#a87935" text-anchor="middle">入口余650*</text>
+   <text x="255.632768" y="442.648069" font-size="6.6" fill="#243444" text-anchor="middle">马桶宽380</text>
+   <text x="255.632768" y="450.502146" font-size="6.3" fill="#243444" text-anchor="middle">长700 拟</text>
+   <text x="344.943503" y="427.594421" font-size="6.8" fill="#365b52" text-anchor="middle">门位800 拟</text>
+   <text x="345.80226" y="438.72103" font-size="5.9" fill="#365b52" text-anchor="middle">朝下方墙开</text>
+   <text x="302.864407" y="462" font-size="6.8" fill="#a04432" text-anchor="middle">两卫原隔墙保留</text>
+   <path d="M223.0 326H375.0 M223.0 324V328 M375.0 324V328" fill="none" stroke="#253137" stroke-width="0.6" />
+   <text x="299" y="323" font-size="7.5" fill="#253137" text-anchor="middle" font-weight="600" stroke="#fffefa" stroke-width=".7" paint-order="stroke fill">1770</text>
+   <path d="M190 334.0V456.0 M188 334.0H192 M188 456.0H192" fill="none" stroke="#253137" stroke-width="0.6" />
+   <text x="187" y="395" font-size="6.8" fill="#253137" text-anchor="middle" transform="rotate(-90 187 395.0)">1864</text>
+   <path d="M445 334.0V392.90557939914163 M443 334.0H447 M443 392.90557939914163H447" fill="none" stroke="#526e65" stroke-width="0.6" />
+   <text x="442" y="363.45279" font-size="6.8" fill="#526e65" text-anchor="middle" transform="rotate(-90 442 363.4527896995708)">台盆区900 拟</text>
+   <path d="M445 392.90557939914163V400.7596566523605 M443 392.90557939914163H447 M443 400.7596566523605H447" fill="none" stroke="#526e65" stroke-width="0.6" />
+   <text x="442" y="396.832618" font-size="6.8" fill="#526e65" text-anchor="middle" transform="rotate(-90 442 396.83261802575106)">120</text>
+   <path d="M445 400.7596566523605V453.12017167381975 M443 400.7596566523605H447 M443 453.12017167381975H447" fill="none" stroke="#526e65" stroke-width="0.6" />
+   <text x="442" y="426.939914" font-size="6.8" fill="#526e65" text-anchor="middle" transform="rotate(-90 442 426.9399141630901)">门位800 拟</text>
+   <path d="M375.0 454.5600858369099L414 454" fill="none" stroke="#a87935" stroke-width="0.6" />
+   <text x="416" y="456" font-size="6.3" fill="#a87935" text-anchor="start">余44</text>
+   <path d="M253.91525423728814 392.90557939914163V412.0171673819743 M251.91525423728814 392.90557939914163H255.91525423728814 M251.91525423728814 412.0171673819743H255.91525423728814" fill="none" stroke="#526e65" stroke-width="0.6" />
+   <text x="250.915254" y="402.461373" font-size="6.8" fill="#526e65" text-anchor="middle" transform="rotate(-90 250.91525423728814 402.4613733905579)">292*</text>
+   <path d="M296.85310734463275 436.8884120171674V456.0 M294.85310734463275 436.8884120171674H298.85310734463275 M294.85310734463275 456.0H298.85310734463275" fill="none" stroke="#526e65" stroke-width="0.6" />
+   <text x="293.853107" y="446.444206" font-size="6.8" fill="#526e65" text-anchor="middle" transform="rotate(-90 293.85310734463275 446.4442060085837)">292*</text>
+   <path d="M326.909604519774 339.2360515021459L314 319" fill="none" stroke="#b34230" stroke-width="0.6" />
+   <text x="305" y="314" font-size="6.5" fill="#b34230" text-anchor="middle">分隔余20待核</text>
+  <text x="404" y="320" font-size="7.5" fill="#357a70" text-anchor="middle">BA01 公卫 · v07</text></g>
 
-   </g>
-   <g data-role="annotation">
-    <text x="409.0" y="390.0" font-size="6.824817518248175" fill="#b34230" text-anchor="middle" font-weight="500">短竖墙拟拆</text>
-   </g>
-   <g data-role="annotation">
-    <text x="289" y="387" font-size="7.3" fill="#243444" text-anchor="middle" font-weight="500">BA01 公卫 · 马桶宽380</text>
-   </g>
-   <g data-role="annotation">
-    <text x="351.3841807909605" y="434.1394849785408" font-size="6.824817518248175" fill="#243444" text-anchor="middle" font-weight="500">外置台盆</text>
-   </g>
-   <g data-role="annotation">
-    <text x="351.3841807909605" y="442.6480686695279" font-size="6.824817518248175" fill="#243444" text-anchor="middle" font-weight="500">850×550 拟</text>
-   </g>
-   <g data-role="annotation">
-    <text x="274.5254237288136" y="422.50378277622883" font-size="6.824817518248175" fill="#243444" text-anchor="middle" font-weight="500">淋浴</text>
-    <text x="274.5254237288136" y="431.71728642586385" font-size="6.824817518248175" fill="#243444" text-anchor="middle" font-weight="500">1200 × 900 拟</text>
-   </g>
-   <g data-role="annotation">
-    <text x="246.6158192090395" y="409.92274678111585" font-size="6.824817518248175" fill="#243444" text-anchor="middle" font-weight="500">半墙长550 拟</text>
-   </g>
-   <g data-role="annotation">
-    <text x="303.2937853107344" y="404.68669527897" font-size="6.824817518248175" fill="#243444" text-anchor="middle" font-weight="500">入口待核</text>
-   </g>
-   <g data-role="annotation">
-    <text x="305.0" y="460.0" font-size="6.824817518248175" fill="#a04432" text-anchor="middle" font-weight="500">两卫原隔墙保留</text>
-   </g>
-   <g data-role="annotation">
-    </g>
-   <g data-role="BA01-wall-and-clearance-dimensions">
-    <path d="M393 400.0397V456 M390 400.0397H396 M390 456H396" fill="none" stroke="#526e65" stroke-width=".6" />
-    <text x="390" y="428.0198" transform="rotate(-90 390 428.0198)" font-size="6.8" fill="#365b52" text-anchor="middle" stroke="#fffef9" stroke-width=".5" paint-order="stroke fill">净855</text>
-    <path d="M445 392.1856V456 M442 392.1856H448 M442 456H448" fill="none" stroke="#526e65" stroke-width=".6" />
-    <text x="442" y="424.0928" transform="rotate(-90 442 424.0928)" font-size="6.8" fill="#365b52" text-anchor="middle" stroke="#fffef9" stroke-width=".5" paint-order="stroke fill">总975</text>
-    <text x="350" y="383" font-size="6.8" fill="#43564e" text-anchor="middle">横墙厚120</text>
-    <path d="M350 385V392.1856" fill="none" stroke="#526e65" stroke-width=".6" />
-    <text x="419" y="412" font-size="6.8" fill="#365b52" text-anchor="middle">台盆余5</text>
-    <path d="M365 400.2033L405 405" fill="none" stroke="#526e65" stroke-width=".6" />
-    <path d="M380.5 407V394H406" fill="none" stroke="#b34230" stroke-width=".6" data-role="BA01-short-wall-removal-leader" />
-   </g>
-  </g>
+
   <g id="anno-主卧与两卫联动-readable-annotations-10" data-role="readable-annotations">
    <g data-role="annotation">
     <text x="354.498639720171" y="522.9157626037013" font-size="7" fill="#243444" text-anchor="middle" font-weight="500">台盆</text>
@@ -919,8 +909,10 @@
     <text x="280.4477263894287" y="504.2871729419272" font-size="7" fill="#243444" text-anchor="middle" font-weight="500">430 × 700</text>
    </g>
    <g data-role="annotation">
-    <text x="197" y="620" font-size="9" fill="#357a70" text-anchor="middle" font-weight="500">次净衣凹位</text>
+    <text x="209.10299261562378" y="610" font-size="9" fill="#357a70" text-anchor="middle" font-weight="500">次净衣区</text>
+    <g data-role="secondary-clothing-width-dimension" data-value="1100"><path d="M164 630H254.20598523124755 M164 627V633 M254.20598523124755 627V633" fill="none" stroke="#446c66" stroke-width="0.65" /><text x="209.10299261562378" y="625" font-size="8" fill="#357a70" text-anchor="middle">净宽1100 目标</text></g>
    </g>
+
    <g data-role="annotation">
     <text x="117" y="593.0" font-size="8.5" fill="#357a70" text-anchor="middle" font-weight="500">扩展800 拟</text>
    </g>
@@ -987,22 +979,6 @@
     <path d="M164 581L127 581" fill="none" stroke="#68756e" stroke-width="0.65" />
     <g data-role="dimension-number" transform="rotate(-90 124 524.5)">
      <text x="124" y="528.5" font-size="12.5" fill="#253137" text-anchor="middle" font-weight="600" stroke="#fffefa" stroke-width="1.5" paint-order="stroke fill" stroke-linejoin="round">1567 原墙</text>
-    </g>
-   </g>
-   <g data-role="room-dimension" data-axis="horizontal" data-value="1770">
-    <path d="M223 349L375 349" fill="none" stroke="#68756e" stroke-width="0.65" />
-    <path d="M223 346L223 352" fill="none" stroke="#68756e" stroke-width="0.65" />
-    <path d="M375 346L375 352" fill="none" stroke="#68756e" stroke-width="0.65" />
-    <g data-role="dimension-number">
-     <text x="299.0" y="346" font-size="12.5" fill="#253137" text-anchor="middle" font-weight="600" stroke="#fffefa" stroke-width="1.5" paint-order="stroke fill" stroke-linejoin="round">1770</text>
-    </g>
-   </g>
-   <g data-role="room-dimension" data-axis="vertical" data-value="1864">
-    <path d="M190 334L190 456" fill="none" stroke="#68756e" stroke-width="0.65" />
-    <path d="M223 334L193 334" fill="none" stroke="#68756e" stroke-width="0.65" />
-    <path d="M223 456L193 456" fill="none" stroke="#68756e" stroke-width="0.65" />
-    <g data-role="dimension-number" transform="rotate(-90 190 395.0)">
-     <text x="190" y="399.0" font-size="12.5" fill="#253137" text-anchor="middle" font-weight="600" stroke="#fffefa" stroke-width="1.5" paint-order="stroke fill" stroke-linejoin="round">1864</text>
     </g>
    </g>
    <g data-role="room-dimension" data-axis="horizontal" data-value="3670">
@@ -1072,10 +1048,10 @@
  <text x="65" y="2035" font-size="23" fill="#243444" font-weight="600" text-anchor="start">采用版本</text>
  <text x="65" y="2075" font-size="20" fill="#357a70" font-weight="400" text-anchor="start">厨房 v04 · 儿童房 v05 · 书房 v04</text>
  <text x="830" y="2075" font-size="20" fill="#357a70" font-weight="400" text-anchor="start">老人房 v03 · 生活阳台 v07 · 玄关 v02</text>
- <text x="1595" y="2075" font-size="20" fill="#357a70" font-weight="400" text-anchor="start">客厅及北阳台 v05 · 公卫 v06 · 主卧两卫 v04</text>
- <text x="65" y="2120" font-size="21" fill="#647782" font-weight="400" text-anchor="start">公卫保留120横墙及两卫隔墙；仅台盆右侧短竖墙拟拆。</text>
- <text x="65" y="2151" font-size="21" fill="#647782" font-weight="400" text-anchor="start">主卫台盆上靠固定包管；盆前局部438、距门弧350均为拟值。</text>
+ <text x="1595" y="2075" font-size="20" fill="#357a70" font-weight="400" text-anchor="start">客厅及北阳台 v05 · 公卫 v07 · 主卧两卫 v04</text>
+ <text x="65" y="2120" font-size="21" fill="#647782" font-weight="400" text-anchor="start">公卫采用v07：右上台盆、右下入口，左上淋浴、左下马桶；两卫隔墙保留。</text>
+ <text x="65" y="2151" font-size="21" fill="#647782" font-weight="400" text-anchor="start">次净衣区净宽1100目标；主卫台盆上靠包管，盆前局部438、距门弧350均为拟值。</text>
  <text x="65" y="2182" font-size="21" fill="#647782" font-weight="400" text-anchor="start">北侧搓衣池750×550＋拖把池450×550，沿墙总余5待核。</text>
  <text x="65" y="2235" font-size="20" fill="#647782" font-weight="400" text-anchor="start">客餐厅含上方过道约33㎡为条件估算；各空间未冻结，安装、完成面与未解决冲突见同名说明。</text>
- <metadata id="integration-provenance">{"version": "v10", "date": "2026-10-05", "orientation": "厨房右上、主卧左下，上南下北", "status": "各空间候选方案整合；未冻结；非施工图", "sources": [{"space": "厨房", "file": "L02-厨房设计-v04.svg", "version": "v04", "sha256": "53dc54ad134cf09a059f9f0f639c910769372c656ed47c63d82e9f91325ee499", "component": "component-KIT01"}, {"space": "儿童房", "file": "L02-儿童房设计-v05.svg", "version": "v05", "sha256": "e6453862ebf300dfc7c14a0e3d70ea95324b5b8daba43001fb851c3e43559d11", "component": "component-BR02"}, {"space": "书房", "file": "L02-书房设计-v04.svg", "version": "v04", "sha256": "e6c21b4d90d0eec3660c564460d749bcba1400d9a8aecfc180dc8148f291fe25", "component": "component-BR03"}, {"space": "老人房", "file": "L02-老人房设计-v03.svg", "version": "v03", "sha256": "bb4c8b36092d292b2ff903ac6ad2a215dc2d8f6056a7833717d273ef6e54f78b", "component": "component-BR04"}, {"space": "生活阳台", "file": "L02-生活阳台设计-v07.svg", "version": "v07", "sha256": "bd1b7a5951ec1dfd411a6e1ba3fcdaf6c276c01f9151b3121ca6dc3395178c5b", "component": "component-BAL-S"}, {"space": "玄关", "file": "L02-玄关设计-v02.svg", "version": "v02", "sha256": "3fb4fbb11ad4eae9e0597b9ef11ab2e9d452b81adfa134e07788d818f14001aa", "component": "component-ENT01"}, {"space": "客厅", "file": "L02-客厅设计-v05.svg", "version": "v05", "sha256": "bb5de2029fc4b06c19824441df7f1492d4f274037ec0d782b029a685cec7e473", "component": "component-LD01"}, {"space": "公卫", "file": "L02-公卫设计-v06.svg", "version": "v06", "sha256": "0e96db093ac5df3df536172fbee25d67d99a299edc077d438854136a854f542b", "component": "component-BA01"}, {"space": "主卧与两卫联动", "file": "L02-主卧与两卫联动设计-v04.svg", "version": "v04", "sha256": "b3bbe3a7db3a75b382aa4d32cc11db327b7f220fc343cca62769f209fc8016d3", "component": "component-BR01-BA02"}], "assembly": {"shared_base": "source-and-label-corrections: all nine sources identical", "shared_definitions": "all nine sources identical", "bathroom": "BA01 from 公卫v06; equals 联动v04; no duplicate geometry", "north_balcony": "actual coordinate layer from 客厅v05; not mirrored again", "entry": "only component-ENT01 includes corrected door and450shortwall", "png": "6000x5700; direct SVG raster export; same revision", "annotations": "Readable labels are kept upright; duplicate living title suppressed; BR02/BR03/BA02 titles added; shared1095/1327 dimension lines copied from baselinev03."}, "living_area": {"excluding_corridor_m2": 25.25887, "including_corridor_estimate_m2": 32.67202, "label": "约33㎡，条件估算，不含玄关及北阳台"}, "layout_changes": "none; source furniture/walls/doors/pipe retained; repeated dimension annotations suppressed only", "retained_issues": ["公卫横向20及台盆安装余5", "主卫盆前438局部及上端零安装缝", "儿童桌床76及椅柜共用300", "书房假设开柜侵桌74", "餐椅后250及休闲椅后191", "北侧双池总余5", "厨房排烟转角及安装包络未核"], "basis_dimensions": "../../../02-设计基础/基础图纸/房间面积示意-v03.svg"}</metadata>
+ <metadata id="integration-provenance">{"version": "v10", "date": "2026-10-07", "orientation": "厨房右上、主卧左下，上南下北", "status": "各空间候选方案整合；未冻结；非施工图", "sources": [{"space": "厨房", "file": "L02-厨房设计-v04.svg", "version": "v04", "sha256": "53dc54ad134cf09a059f9f0f639c910769372c656ed47c63d82e9f91325ee499", "component": "component-KIT01"}, {"space": "儿童房", "file": "L02-儿童房设计-v05.svg", "version": "v05", "sha256": "e6453862ebf300dfc7c14a0e3d70ea95324b5b8daba43001fb851c3e43559d11", "component": "component-BR02"}, {"space": "书房", "file": "L02-书房设计-v04.svg", "version": "v04", "sha256": "e6c21b4d90d0eec3660c564460d749bcba1400d9a8aecfc180dc8148f291fe25", "component": "component-BR03"}, {"space": "老人房", "file": "L02-老人房设计-v03.svg", "version": "v03", "sha256": "bb4c8b36092d292b2ff903ac6ad2a215dc2d8f6056a7833717d273ef6e54f78b", "component": "component-BR04"}, {"space": "生活阳台", "file": "L02-生活阳台设计-v07.svg", "version": "v07", "sha256": "bd1b7a5951ec1dfd411a6e1ba3fcdaf6c276c01f9151b3121ca6dc3395178c5b", "component": "component-BAL-S"}, {"space": "玄关", "file": "L02-玄关设计-v02.svg", "version": "v02", "sha256": "3fb4fbb11ad4eae9e0597b9ef11ab2e9d452b81adfa134e07788d818f14001aa", "component": "component-ENT01"}, {"space": "客厅", "file": "L02-客厅设计-v05.svg", "version": "v05", "sha256": "bb5de2029fc4b06c19824441df7f1492d4f274037ec0d782b029a685cec7e473", "component": "component-LD01"}, {"space": "公卫", "file": "L02-公卫设计-v07.svg", "version": "v07", "sha256": "6fe57edede5261091af138dbdbef870b41201aa2e3139cb1323b8a2b55291893", "component": "component-BA01"}, {"space": "主卧与两卫联动", "file": "L02-主卧与两卫联动设计-v04.svg", "version": "v04", "sha256": "f941993aa72612b07691793fb66945e2b3f6a0512a6710e2f59567fc343b7cbf", "component": "component-BR01-BA02"}], "assembly": {"shared_base": "source-and-label-corrections: all nine sources identical", "shared_definitions": "all nine sources identical", "bathroom": "BA01 from 公卫v07; equals updated 联动v04; no duplicate geometry", "north_balcony": "actual coordinate layer from 客厅v05; not mirrored again", "entry": "only component-ENT01 includes corrected door and450shortwall", "png": "existing PNG is 2026-10-05 export; not synchronized with 2026-10-07 SVG update", "annotations": "Readable labels are kept upright; duplicate living title suppressed; BR02/BR03/BA02 titles added; shared1095/1327 dimension lines copied from baselinev03."}, "living_area": {"excluding_corridor_m2": 25.25887, "including_corridor_estimate_m2": 32.67202, "label": "约33㎡，条件估算，不含玄关及北阳台"}, "layout_changes": "2026-10-07按用户要求在v10原图同步现有修改：BA01采用公卫v07；BR01-BA02采用当前联动v04，含次净衣区1100方案净宽目标。其他空间保留。", "retained_issues": ["公卫分隔余20、门端余44及入口650名义值；排水、横墙定位与完成面收口待核", "主卫盆前438局部及上端零安装缝", "儿童桌床76及椅柜共用300", "书房假设开柜侵桌74", "餐椅后250及休闲椅后191", "北侧双池总余5", "厨房排烟转角及安装包络未核"], "basis_dimensions": "../../../02-设计基础/基础图纸/房间面积示意-v03.svg", "secondary_clothing": {"target_clear_width_mm": 1100, "source": "2026-10-07用户设计要求，非实测", "wall_thickness": "沿用图示厚度，仅为示意，不换算现场墙厚", "limits": "完成面净宽、连接墙段及施工条件待核；原墙段、两卫固定隔墙和包管保留"}, "BA01_layout": {"version": "v07", "room_mm": [1770, 1864], "trial_positions_mm": {"basin": [1220, 25, 550, 850], "shower": [0, 0, 1200, 900], "wall": [1220, 900, 550, 120], "door_right_wall_y": [1020, 1820], "door_opening_reservation": 800, "lower_remainder": 44, "toilet": [20, 1192, 700, 380]}, "right_chain_mm": [900, 120, 800, 44], "basin_clearance_mm": [25, 25], "toilet_side_nominal_mm": [292, 292], "door_swing": {"hinge_actual_mm": [1770, 1820], "direction": "inward toward lower fixed two-bath wall", "basis": "2026-10-06用户手绘确认", "swing_envelope_radius_mm": 800, "leaf_size": "symbol only; actual leaf and frame unselected"}, "unresolved": ["20 is partition budget, not selected wall thickness", "shower opening650 nominal", "door800 not effective net", "lower44 and completed-face closures", "toilet relocation drainage", "wall120 location candidate; actual construction boundaries unverified"], "fixed": "两卫原隔墙、黑墙、左侧墙窗、BA02包管514x317保留", "source": "L02-公卫设计-v07.svg"}}</metadata>
 </svg>
